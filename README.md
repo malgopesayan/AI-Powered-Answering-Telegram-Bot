@@ -3,7 +3,10 @@ An AI-powered Telegram bot that fetches MCQ answers from Gemini, NVIDIA, LLaMA, 
 # AI-Powered MCQ Answering Telegram Bot
 
 
-Uploading Project 14.mp4…
+
+https://github.com/user-attachments/assets/50e28d4e-4308-426d-8875-0a793edc9e3b
+
+
 
 
 ## 📌 Overview
