@@ -21,8 +21,8 @@ This Telegram bot provides **instant answers** to multiple-choice questions (MCQ
 ## 📦 Installation & Setup
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/yourusername/ai-mcq-telegram-bot.git
-   cd ai-mcq-telegram-bot
+   gh repo clone malgopesayan/AI-Powered-Answering-Telegram-Bot
+   cd aAI-Powered-Answering-Telegram-bot
    ```
 2. **Install dependencies:**  
    ```sh
