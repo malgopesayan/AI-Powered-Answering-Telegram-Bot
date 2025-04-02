@@ -2,6 +2,10 @@
 An AI-powered Telegram bot that fetches MCQ answers from Gemini, NVIDIA, LLaMA, DeepSeek, and ChatGPT within 13 seconds. It uses asynchronous processing for fast and accurate responses, ensuring seamless user interaction. Ideal for quick knowledge retrieval and diverse AI-generated insights. 🚀
 # AI-Powered MCQ Answering Telegram Bot
 
+
+Uploading Project 14.mp4…
+
+
 ## 📌 Overview
 This Telegram bot provides **instant answers** to multiple-choice questions (MCQs) by fetching responses from **five advanced AI models**: 
 **Gemini, NVIDIA, LLaMA, DeepSeek, and ChatGPT**. The bot ensures accurate and diverse responses within **13 seconds**.
